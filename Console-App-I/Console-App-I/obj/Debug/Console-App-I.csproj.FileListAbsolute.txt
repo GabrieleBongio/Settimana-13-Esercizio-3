@@ -1,0 +1,7 @@
+C:\Users\bongi\OneDrive\Desktop\EPICODE\Esercitazioni\Esercitazioni-Epicode\Modulo IV\Settimana-13-Esercizio-3\Console-App-I\Console-App-I\obj\Debug\Console-App-I.csproj.AssemblyReference.cache
+C:\Users\bongi\OneDrive\Desktop\EPICODE\Esercitazioni\Esercitazioni-Epicode\Modulo IV\Settimana-13-Esercizio-3\Console-App-I\Console-App-I\obj\Debug\Console-App-I.csproj.CoreCompileInputs.cache
+C:\Users\bongi\OneDrive\Desktop\EPICODE\Esercitazioni\Esercitazioni-Epicode\Modulo IV\Settimana-13-Esercizio-3\Console-App-I\Console-App-I\bin\Debug\Console-App-I.exe.config
+C:\Users\bongi\OneDrive\Desktop\EPICODE\Esercitazioni\Esercitazioni-Epicode\Modulo IV\Settimana-13-Esercizio-3\Console-App-I\Console-App-I\bin\Debug\Console-App-I.exe
+C:\Users\bongi\OneDrive\Desktop\EPICODE\Esercitazioni\Esercitazioni-Epicode\Modulo IV\Settimana-13-Esercizio-3\Console-App-I\Console-App-I\bin\Debug\Console-App-I.pdb
+C:\Users\bongi\OneDrive\Desktop\EPICODE\Esercitazioni\Esercitazioni-Epicode\Modulo IV\Settimana-13-Esercizio-3\Console-App-I\Console-App-I\obj\Debug\Console-App-I.exe
+C:\Users\bongi\OneDrive\Desktop\EPICODE\Esercitazioni\Esercitazioni-Epicode\Modulo IV\Settimana-13-Esercizio-3\Console-App-I\Console-App-I\obj\Debug\Console-App-I.pdb
