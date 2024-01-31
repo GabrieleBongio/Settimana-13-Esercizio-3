@@ -10,7 +10,7 @@ namespace Console_App_I
     {
         static void Main(string[] args)
         {
-            ///// ///// ///// ///// Esercizio 2
+            ///// ///// ///// ///// Esercizio 1
             
             Conto conto = new Conto();
             bool cont = true;
